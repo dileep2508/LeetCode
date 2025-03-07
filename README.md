@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/dileep2508/CollegeCode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
