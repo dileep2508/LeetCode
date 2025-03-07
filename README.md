@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/dileep2508/CollegeCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dileep2508/CollegeCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dileep2508/CollegeCode/tree/master/0342-power-of-four) |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dileep2508/CollegeCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dileep2508/CollegeCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dileep2508/CollegeCode/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
