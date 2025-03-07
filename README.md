@@ -26,5 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/dileep2508/CollegeCode/tree/master/0485-max-consecutive-ones) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
