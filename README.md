@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dileep2508/CollegeCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/dileep2508/CollegeCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/dileep2508/CollegeCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dileep2508/CollegeCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dileep2508/CollegeCode/tree/master/0342-power-of-four) |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/dileep2508/CollegeCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/dileep2508/CollegeCode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/dileep2508/CollegeCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
