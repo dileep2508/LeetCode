@@ -17,13 +17,11 @@ class Solution {
         ListNode temp = new ListNode(0);
         temp.next = head;
         ListNode prev = temp;
-
         for(int i=1; i<left; i++){
             prev = prev.next;
         }
         ListNode start = prev.next;
         ListNode end = start.next;
-
         for(int i=0; i<right-left; i++){
             start.next = end.next;
             end.next = prev.next;
@@ -31,5 +29,6 @@ class Solution {
             end = start.next;
         }
         return temp.next;
+
     }
 }
