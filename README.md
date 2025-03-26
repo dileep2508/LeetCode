@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Array
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/dileep2508/CollegeCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/dileep2508/CollegeCode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
