@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dileep2508/CollegeCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
+| [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -90,4 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dileep2508/CollegeCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/dileep2508/CollegeCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
