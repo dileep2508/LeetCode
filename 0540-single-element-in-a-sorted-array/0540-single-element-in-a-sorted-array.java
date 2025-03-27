@@ -4,7 +4,7 @@ class Solution {
 
         for(int a: nums){
 
-            ans ^= a; 
+            ans = ans^a; 
         }
 
         return ans;
