@@ -93,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dileep2508/CollegeCode/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/dileep2508/CollegeCode/tree/master/0838-design-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dileep2508/CollegeCode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/dileep2508/CollegeCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dileep2508/CollegeCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/dileep2508/CollegeCode/tree/master/0735-asteroid-collision) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/dileep2508/CollegeCode/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dileep2508/CollegeCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
