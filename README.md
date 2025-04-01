@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/dileep2508/CollegeCode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/dileep2508/CollegeCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dileep2508/CollegeCode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dileep2508/CollegeCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dileep2508/CollegeCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/dileep2508/CollegeCode/tree/master/0187-repeated-dna-sequences) |
 | [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dileep2508/CollegeCode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/dileep2508/CollegeCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dileep2508/CollegeCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/dileep2508/CollegeCode/tree/master/0187-repeated-dna-sequences) |
 ## Design
 |  |
 | ------- |
@@ -144,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dileep2508/CollegeCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dileep2508/CollegeCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dileep2508/CollegeCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/dileep2508/CollegeCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/dileep2508/CollegeCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/dileep2508/CollegeCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
