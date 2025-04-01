@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dileep2508/CollegeCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/dileep2508/CollegeCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dileep2508/CollegeCode/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dileep2508/CollegeCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dileep2508/CollegeCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dileep2508/CollegeCode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/dileep2508/CollegeCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dileep2508/CollegeCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Design
