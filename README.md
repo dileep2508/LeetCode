@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dileep2508/CollegeCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dileep2508/CollegeCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/dileep2508/CollegeCode/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/dileep2508/CollegeCode/tree/master/0213-house-robber-ii) |
 | [0485-max-consecutive-ones](https://github.com/dileep2508/CollegeCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/dileep2508/CollegeCode/tree/master/0735-asteroid-collision) |
@@ -244,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/dileep2508/CollegeCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/dileep2508/CollegeCode/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
