@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dileep2508/CollegeCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/dileep2508/CollegeCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/dileep2508/CollegeCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/dileep2508/CollegeCode/tree/master/0168-excel-sheet-column-title) |
@@ -244,6 +245,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dileep2508/CollegeCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/dileep2508/CollegeCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dileep2508/CollegeCode/tree/master/0213-house-robber-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dileep2508/CollegeCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
