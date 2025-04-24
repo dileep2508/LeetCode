@@ -23,7 +23,7 @@ public class Solution extends GuessGame {
             if(res < 0){
                 high = mid-1;
             }
-            if(res == 1){
+            else{
                 low = mid+1;
             }
         }
