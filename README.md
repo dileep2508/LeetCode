@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dileep2508/CollegeCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dileep2508/CollegeCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dileep2508/CollegeCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/dileep2508/CollegeCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/dileep2508/CollegeCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/dileep2508/CollegeCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/dileep2508/CollegeCode/tree/master/1646-kth-missing-positive-number) |
