@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1646-kth-missing-positive-number](https://github.com/dileep2508/CollegeCode/tree/master/1646-kth-missing-positive-number) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/dileep2508/CollegeCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dileep2508/CollegeCode/tree/master/0739-daily-temperatures) |
 | [0967-minimum-falling-path-sum](https://github.com/dileep2508/CollegeCode/tree/master/0967-minimum-falling-path-sum) |
+| [1646-kth-missing-positive-number](https://github.com/dileep2508/CollegeCode/tree/master/1646-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
