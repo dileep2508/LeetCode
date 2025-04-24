@@ -20,7 +20,7 @@ public class Solution extends GuessGame {
             if(res == 0){
                 return mid;
             }
-            if(res < 0){
+            else if(res < 0){
                 high = mid-1;
             }
             else{
