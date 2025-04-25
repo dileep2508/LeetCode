@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dileep2508/CollegeCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dileep2508/CollegeCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dileep2508/CollegeCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dileep2508/CollegeCode/tree/master/0018-4sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dileep2508/CollegeCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/dileep2508/CollegeCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/dileep2508/CollegeCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dileep2508/CollegeCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dileep2508/CollegeCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/dileep2508/CollegeCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dileep2508/CollegeCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dileep2508/CollegeCode/tree/master/0064-minimum-path-sum) |
