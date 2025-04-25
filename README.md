@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/dileep2508/CollegeCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/dileep2508/CollegeCode/tree/master/0219-contains-duplicate-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/dileep2508/CollegeCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/dileep2508/CollegeCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/dileep2508/CollegeCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/dileep2508/CollegeCode/tree/master/0735-asteroid-collision) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dileep2508/CollegeCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dileep2508/CollegeCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/dileep2508/CollegeCode/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dileep2508/CollegeCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/dileep2508/CollegeCode/tree/master/0435-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/dileep2508/CollegeCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dileep2508/CollegeCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/dileep2508/CollegeCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/dileep2508/CollegeCode/tree/master/0435-non-overlapping-intervals) |
 | [0967-minimum-falling-path-sum](https://github.com/dileep2508/CollegeCode/tree/master/0967-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
