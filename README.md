@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/dileep2508/CollegeCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dileep2508/CollegeCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/dileep2508/CollegeCode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/dileep2508/CollegeCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/dileep2508/CollegeCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dileep2508/CollegeCode/tree/master/0739-daily-temperatures) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/dileep2508/CollegeCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/dileep2508/CollegeCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dileep2508/CollegeCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/dileep2508/CollegeCode/tree/master/0525-contiguous-array) |
 ## Design
 |  |
 | ------- |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dileep2508/CollegeCode/tree/master/1030-smallest-string-starting-from-leaf) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/dileep2508/CollegeCode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
