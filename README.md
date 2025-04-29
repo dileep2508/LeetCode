@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/dileep2508/CollegeCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/dileep2508/CollegeCode/tree/master/1646-kth-missing-positive-number) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dileep2508/CollegeCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dileep2508/CollegeCode/tree/master/0739-daily-temperatures) |
 | [0967-minimum-falling-path-sum](https://github.com/dileep2508/CollegeCode/tree/master/0967-minimum-falling-path-sum) |
 | [1646-kth-missing-positive-number](https://github.com/dileep2508/CollegeCode/tree/master/1646-kth-missing-positive-number) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dileep2508/CollegeCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dileep2508/CollegeCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/dileep2508/CollegeCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/dileep2508/CollegeCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dileep2508/CollegeCode/tree/master/0424-longest-repeating-character-replacement) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dileep2508/CollegeCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -351,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/dileep2508/CollegeCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dileep2508/CollegeCode/tree/master/0560-subarray-sum-equals-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dileep2508/CollegeCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
