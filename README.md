@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dileep2508/CollegeCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dileep2508/CollegeCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dileep2508/CollegeCode/tree/master/0367-valid-perfect-square) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/dileep2508/CollegeCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/dileep2508/CollegeCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dileep2508/CollegeCode/tree/master/0739-daily-temperatures) |
 | [0967-minimum-falling-path-sum](https://github.com/dileep2508/CollegeCode/tree/master/0967-minimum-falling-path-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/dileep2508/CollegeCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/dileep2508/CollegeCode/tree/master/1646-kth-missing-positive-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dileep2508/CollegeCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dileep2508/CollegeCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
