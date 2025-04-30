@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/dileep2508/CollegeCode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/dileep2508/CollegeCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dileep2508/CollegeCode/tree/master/0908-middle-of-the-linked-list) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/dileep2508/CollegeCode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Hash Table
 |  |
 | ------- |
