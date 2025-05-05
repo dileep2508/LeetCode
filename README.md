@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/dileep2508/CollegeCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/dileep2508/CollegeCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/dileep2508/CollegeCode/tree/master/0658-find-k-closest-elements) |
 | [1646-kth-missing-positive-number](https://github.com/dileep2508/CollegeCode/tree/master/1646-kth-missing-positive-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dileep2508/CollegeCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Array
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/dileep2508/CollegeCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dileep2508/CollegeCode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/dileep2508/CollegeCode/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/dileep2508/CollegeCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dileep2508/CollegeCode/tree/master/0739-daily-temperatures) |
 | [0967-minimum-falling-path-sum](https://github.com/dileep2508/CollegeCode/tree/master/0967-minimum-falling-path-sum) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dileep2508/CollegeCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/dileep2508/CollegeCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dileep2508/CollegeCode/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/dileep2508/CollegeCode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/dileep2508/CollegeCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dileep2508/CollegeCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/dileep2508/CollegeCode/tree/master/0435-non-overlapping-intervals) |
+| [0658-find-k-closest-elements](https://github.com/dileep2508/CollegeCode/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/dileep2508/CollegeCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/dileep2508/CollegeCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dileep2508/CollegeCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/dileep2508/CollegeCode/tree/master/0658-find-k-closest-elements) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dileep2508/CollegeCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Rolling Hash
 |  |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dileep2508/CollegeCode/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/dileep2508/CollegeCode/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
 | ------- |
