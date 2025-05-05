@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dileep2508/CollegeCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/dileep2508/CollegeCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/dileep2508/CollegeCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/dileep2508/CollegeCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileep2508/CollegeCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/dileep2508/CollegeCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/dileep2508/CollegeCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Backtracking
 |  |
