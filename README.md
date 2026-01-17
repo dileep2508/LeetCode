@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/dileep2508/CollegeCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/dileep2508/CollegeCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dileep2508/CollegeCode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/dileep2508/CollegeCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dileep2508/CollegeCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/dileep2508/CollegeCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dileep2508/CollegeCode/tree/master/0560-subarray-sum-equals-k) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/dileep2508/CollegeCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Design
 |  |
 | ------- |
