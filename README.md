@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/dileep2508/CollegeCode/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/dileep2508/CollegeCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dileep2508/CollegeCode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/dileep2508/CollegeCode/tree/master/0867-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/dileep2508/CollegeCode/tree/master/0967-minimum-falling-path-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dileep2508/CollegeCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/dileep2508/CollegeCode/tree/master/1646-kth-missing-positive-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/dileep2508/CollegeCode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/dileep2508/CollegeCode/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dileep2508/CollegeCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dileep2508/CollegeCode/tree/master/0064-minimum-path-sum) |
+| [0867-transpose-matrix](https://github.com/dileep2508/CollegeCode/tree/master/0867-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/dileep2508/CollegeCode/tree/master/0967-minimum-falling-path-sum) |
 ## Interactive
 |  |
