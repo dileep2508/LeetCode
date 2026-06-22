@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dileep2508/CollegeCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dileep2508/CollegeCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/dileep2508/CollegeCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dileep2508/CollegeCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dileep2508/CollegeCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/dileep2508/CollegeCode/tree/master/0027-remove-element) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dileep2508/CollegeCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/dileep2508/CollegeCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/dileep2508/CollegeCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/dileep2508/CollegeCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dileep2508/CollegeCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/dileep2508/CollegeCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/dileep2508/CollegeCode/tree/master/0168-excel-sheet-column-title) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/dileep2508/CollegeCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dileep2508/CollegeCode/tree/master/0560-subarray-sum-equals-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dileep2508/CollegeCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dileep2508/CollegeCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
